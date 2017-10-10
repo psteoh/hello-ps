@@ -1,5 +1,5 @@
 # hello-ps
-bracnh3
+branch3
 
 a for apple (eclip)
 b for balloon (gitlab)
