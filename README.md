@@ -1,4 +1,3 @@
 # hello-ps
 branch3
-
-tomato eclp
+prune eclp
